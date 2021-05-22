@@ -1,0 +1,2 @@
+D:\TestProjects\JYLGame\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\TestProjects\JYLGame\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
